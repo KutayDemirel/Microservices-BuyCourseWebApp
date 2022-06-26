@@ -1,4 +1,4 @@
 # Microservices-BuyCourseWebApp
 
-*RabbitMQ -> message vs event distinction
-*Asynchronous and Synchronous Communication between services
+* RabbitMQ -> message vs event distinction
+* Asynchronous and Synchronous Communication between services
