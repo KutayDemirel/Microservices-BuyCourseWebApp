@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0bf318c3-04c0-4782-ada4-2c59f47f74d6": {
+      "ProjectGuid": "0bf318c3-04c0-4782-ada4-2c59f47f74d6",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "5bdce495-5ad5-4eab-80a4-a4c93e54fc6e": {
+      "ProjectGuid": "5bdce495-5ad5-4eab-80a4-a4c93e54fc6e",
+      "DisplayName": "BuyCourse.Services.Catalog",
+      "ColorIndex": 1
+    },
+    "c6b0f298-cf83-4dce-b6d3-915ef797895b": {
+      "ProjectGuid": "c6b0f298-cf83-4dce-b6d3-915ef797895b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "ee50681e-cc85-42b1-895c-86a32f5752e0": {
+      "ProjectGuid": "ee50681e-cc85-42b1-895c-86a32f5752e0",
+      "DisplayName": "BuyCourse.Shared",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
